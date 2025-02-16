@@ -19,8 +19,11 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 
 ### **🔹 En tant qu'administrateur**
 ✔ **Gérer les catégories de tickets** : Ajouter, modifier et supprimer des catégories pour classer les demandes (Ex : Problème technique, Facturation, Accès utilisateur).
+
 ✔ **Attribuer des tickets aux agents** : Assigner un ticket à un agent de support pour une meilleure prise en charge.
+
 ✔ **Changer le statut d’un ticket** : Modifier le statut d’un ticket (🟡 En attente, 🟢 En cours, 🔴 Résolu).
+
 ✔ **Consulter les tickets** : Voir la liste des tickets pour suivre leur progression.
 
 ### **🔹 En tant qu’utilisateur**
