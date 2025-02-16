@@ -27,8 +27,11 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ✔ **Consulter les tickets** : Voir la liste des tickets pour suivre leur progression.
 
 ### **🔹 En tant qu’utilisateur**
+
 ✔ **Créer un ticket** : Décrire un problème et l’envoyer au support avec une catégorie précise.
+
 ✔ **Suivre l’état de mes tickets** : Voir l'historique et le statut de mes tickets.
+
 ✔ **Fermer un ticket résolu** : Clôturer un ticket lorsque le problème est réglé.
 
 ---
