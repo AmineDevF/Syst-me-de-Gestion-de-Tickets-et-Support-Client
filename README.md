@@ -8,9 +8,13 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ---
 
 ## 🎯 Objectifs
+
 ✅ Permettre aux utilisateurs de créer et suivre leurs tickets.
+
 ✅ Offrir aux administrateurs la possibilité de gérer les tickets efficacement.
+
 ✅ Assurer une gestion fluide des catégories et des statuts des tickets.
+
 ✅ Optimiser l'expérience utilisateur avec une interface intuitive.
 
 ---
