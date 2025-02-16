@@ -128,15 +128,15 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ## 🚀 Technologies Utilisées
 
 - **Backend :** Laravel 10 ⚙️
-- 
+  
 - **Base de données :** PostgreSQL 🗄️
-- 
+  
 - **Frontend :** Blade / Tailwind CSS 🎨
-- 
+  
 - **Versioning :** GitHub 🛠️
-- 
+  
 - **Déploiement :** Docker (optionnel) 🐳
-- 
+  
 - **Gestion de projet :** Jira 📅
 
 ---
