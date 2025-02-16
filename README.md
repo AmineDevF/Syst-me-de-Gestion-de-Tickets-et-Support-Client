@@ -37,20 +37,27 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ---
 
 ## ⚖️ Règles Métier
+
 📌 Un ticket doit être assigné à un agent avant d’être traité.
+
 📌 Un ticket ne peut pas être modifié après sa fermeture.
+
 📌 Un utilisateur ne peut voir que ses propres tickets.
 
 ---
 
 ## ⭐ Bonus (Optionnel)
+
 🔔 Ajout d’un **système de notifications** (email ou en temps réel avec Pusher).
+
 💬 Intégration d’une **messagerie** entre l’utilisateur et l’agent dans le ticket.
+
 📊 Implémentation d’un **tableau de bord** affichant les statistiques des tickets (ouverts, en cours, résolus).
 
 ---
 
 ## 📝 Modalités Pédagogiques
+
 - **Travail Individuel**
 - **Durée du projet :** 5 jours
 - **Date de lancement :** 17/02/2025 à 9h00
