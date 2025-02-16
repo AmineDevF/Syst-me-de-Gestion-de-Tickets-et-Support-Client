@@ -66,17 +66,25 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ---
 
 ## 📊 Modalités d’évaluation
+
 🎤 **Présentation finale (30 min)**
+
 🖥 **Démo de l’application (10 min)**
+
 📂 **Explication de l’architecture et du code (10 min)**
+
 🛠 **Questions techniques sur Laravel & PostgreSQL (10 min)**
 
 ---
 
 ## 📎 Livrables
+
 📌 **Dépôt GitHub** avec un README détaillé 📄
+
 📌 **Planification du projet sur Jira** (Backlog, User Stories, Sprint Planning) 📅
+
 📌 **Rétrospective quotidienne** documentée dans le README 📜
+
 📌 **Déploiement sur un serveur** si possible 🚀
 
 ---
@@ -84,38 +92,57 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 ## ✅ Critères de Performance
 
 ### **📌 Code & Architecture**
+
 ✔ Respect de l’architecture **MVC** et des conventions **Laravel**
+
 ✔ Code propre, structuré et bien commenté 🖋
+
 ✔ Bonne utilisation des **migrations, seeders et factories**
 
 ### **📌 Base de Données & Requêtes SQL**
+
 ✔ Optimisation des requêtes SQL avec **PostgreSQL** ⚡
+
 ✔ Utilisation des relations **One-to-Many** avec **Eloquent ORM**
+
 ✔ Validation et intégrité des données 🔍
 
 ### **📌 Sécurité & Gestion des Erreurs**
+
 ✔ Validation des entrées utilisateur 🛡️
+
 ✔ Protection contre les attaques **CSRF & SQL Injection** 🚨
+
 ✔ Middleware pour restreindre l'accès aux routes sensibles 🔑
 
 ### **📌 Interface Utilisateur & Expérience**
+
 ✔ UI intuitive avec **Blade / Vue.js (optionnel)** 🎨
+
 ✔ Feedback utilisateur clair et messages d’alerte informatifs 🔔
+
 ✔ Navigation fluide et responsive 📱
 
 ---
 
 ## 🚀 Technologies Utilisées
+
 - **Backend :** Laravel 10 ⚙️
+- 
 - **Base de données :** PostgreSQL 🗄️
+- 
 - **Frontend :** Blade / Tailwind CSS 🎨
+- 
 - **Versioning :** GitHub 🛠️
+- 
 - **Déploiement :** Docker (optionnel) 🐳
+- 
 - **Gestion de projet :** Jira 📅
 
 ---
 
 ## 📢 À propos du Projet
+
 Ce projet est conçu pour développer des compétences en **Laravel, PostgreSQL et architecture MVC** tout en abordant des problématiques réelles du support client. 🚀
 
 Bon courage à tous ! 💪
