@@ -65,7 +65,7 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 - **Travail Individuel**
 - **Durée du projet :** 5 jours
 - **Date de lancement :** 17/02/2025 à 9h00
-- **Date limite de soumission :** 22/02/2025 avant 17h00
+- **Date limite de soumission :** 22/02/2025 avant 17h30
 
 ---
 
@@ -87,7 +87,7 @@ L'application sera développée en **Laravel** avec **PostgreSQL**, en respectan
 
 📌 **Planification du projet sur Jira** (Backlog, User Stories, Sprint Planning) 📅
 
-📌 **Rétrospective quotidienne** documentée dans le README 📜
+📌 **Diagrammes UML.
 
 📌 **Déploiement sur un serveur** si possible 🚀
 
